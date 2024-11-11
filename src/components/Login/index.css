@@ -92,6 +92,7 @@
   font-size: 15px;
   font-weight: bold;
   border-radius: 10px;
+  cursor: pointer;
 }
 .error-msg {
   color: rgb(186, 35, 35);
